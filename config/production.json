@@ -1,0 +1,6 @@
+{
+  "mongoURL": "mongodb+srv://root123:root123@jobby.jb9ek.mongodb.net/Jobby?retryWrites=true&w=majority",
+  "jwtSecret": "1478fduyghsjhjkghshuiesyg877324y78yhhdfuigsdfg",
+  "githubCliendId": "59a27d18e8e02bd1962f",
+  "githubSecret": "3e3ae67c56953333c8f833463fc03de5522e64a4"
+}

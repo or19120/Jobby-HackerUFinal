@@ -1,8 +1,8 @@
 /* Global Styles */
 :root {
-  --primary-color: #1cddb3;
-  --dark-color: #2a3541;
-  --light-color: #d3d3d3;
+  --primary-color: #195190ff;
+  --dark-color: #a2a2a1ff;
+  --light-color: rgb(220, 221, 221);
   --danger-color: #d14652;
   --success-color: #28a745;
 }

@@ -1,8 +1,8 @@
 const mongoose = require("mongoose");
 const config = require("config");
-const db = config.get("mongoURL");
+// const db = config.get("mongoURL");
 // Make sure that for local testing use the following:
-//   const db = "mongodb://localhost/Jobby";
+const db = "mongodb://localhost/Jobby";
 
 const connectToMongo = async () => {
   try {
